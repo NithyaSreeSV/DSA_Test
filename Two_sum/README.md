@@ -42,4 +42,4 @@ Array is not sorted
 * **Space Complexity:** 
 
 ## 🏷️ Keyword-to-Pattern Association
-* `Hashmap, Two elements, non contiguous`
+* Hashmap, Two elements, non contiguous
