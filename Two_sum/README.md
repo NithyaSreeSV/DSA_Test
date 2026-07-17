@@ -1,42 +1,45 @@
-# Two sum          
-                            ## 🔗 Platform Link/Code
-                            Leetcode 2
+# Two sum
 
-                            ## 📥 Input Format
-                            Array of integers
+## 🔗 Platform Link/Code
+Leetcode 2
 
-                            ## 📤 Output Format
-                            indices of two integers
+## 📥 Input Format
+```text
+Array of integers
+```
 
-                            ## ⚠️ Constraints
-                            O(n)
+## 📤 Output Format
+```text
+indices of two integers
+```
 
-                            ## 🕵️‍♂️ Hidden Clues
-                            Array is not sorted
+## ⚠️ Constraints
+O(n)
 
-                            ## 🎯 Target Discovery
-                            
+## 🕵️‍♂️ Hidden Clues
+Array is not sorted
 
-                            ## 🐌 Brute Force & Inefficiencies
-                            
+## 🎯 Target Discovery
 
-                            ## 💡 Key Insight / What to Remember
-                            
 
-                            ## 🧩 Core Patterns
-                            
+## 🐌 Brute Force & Inefficiencies
 
-                            ## ⚡ Optimization Strategy
-                            
 
-                            ## 🔄 Dry Run Tracing
-                            
+## 💡 Key Insight / What to Remember
 
-                            ## 📊 Complexity Profiles
-                            Time Complexity: 
 
-                            Space Complexity: 
+## 🧩 Core Patterns
 
-                            ## 🏷️ Keyword-to-Pattern Association
-                            Hashmap, Two elements, non contiguous
-                            
+
+## ⚡ Optimization Strategy
+
+
+## 🔄 Dry Run Tracing
+
+
+## 📊 Complexity Profiles
+* **Time Complexity:** 
+* **Space Complexity:** 
+
+## 🏷️ Keyword-to-Pattern Association
+* `Hashmap, Two elements, non contiguous`
